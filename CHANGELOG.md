@@ -2,6 +2,14 @@
 
 All notable changes to Pocket Option Bot PRO will be documented in this file, starting from the next release.
 
+## [2.0.11] - 2026-09-14
+
+### Fixed
+
+- Fixed a crash in the MACD and Stochastic Oscillator strategies when there aren't enough candles yet (e.g. right
+  after starting the bot or switching pairs/timeframe) — the strategy check now skips the signal instead of throwing
+  an error.
+
 ## [2.0.10] - 2026-09-02
 
 ### Improved
