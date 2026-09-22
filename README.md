@@ -1,3 +1,5 @@
+🇬🇧 English | [🇸🇦 العربية](README.ar.md)
+
 # Pocket Option Bot PRO
 
 Automated trading bot for the [Pocket Option](https://pocketoption.com) platform, distributed here as ready-to-install
