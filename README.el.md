@@ -13,6 +13,12 @@
 
 Αυτό το αποθετήριο δημοσιεύει έτοιμες για εγκατάσταση εκδόσεις της επέκτασης, ώστε να μπορείτε να εγκαταστήσετε νέες εκδόσεις πριν περάσουν τον έλεγχο του Chrome Web Store, και να κατεβάσετε πάντα μια παλαιότερη έκδοση αν χρειαστεί να επιστρέψετε πίσω. Δείτε το [CHANGELOG.md](CHANGELOG.md).
 
+## Παραδείγματα βίντεο για το πώς λειτουργούν οι στρατηγικές
+
+| [![στρατηγική «none».](https://img.youtube.com/vi/RYci6-vpeNQ/hqdefault.jpg)](https://youtu.be/RYci6-vpeNQ) | [![Στρατηγική RSI](https://img.youtube.com/vi/rpceGtEW_9U/hqdefault.jpg)](https://youtu.be/rpceGtEW_9U) | [![Στρατηγική MACD](https://img.youtube.com/vi/gqMDqFxTA-U/hqdefault.jpg)](https://youtu.be/gqMDqFxTA-U) | [![Στοχαστική Στρατηγική](https://img.youtube.com/vi/eW3je_L8W3s/hqdefault.jpg)](https://youtu.be/eW3je_L8W3s) | [![Στρατηγική Candle Streak](https://img.youtube.com/vi/ukDODbFWKFY/hqdefault.jpg)](https://youtu.be/ukDODbFWKFY) |
+|:---:|:---:|:---:|:---:|:---:|
+| [στρατηγική «none».](https://youtu.be/RYci6-vpeNQ) | [Στρατηγική RSI](https://youtu.be/rpceGtEW_9U) | [Στρατηγική MACD](https://youtu.be/gqMDqFxTA-U) | [Στοχαστική Στρατηγική](https://youtu.be/eW3je_L8W3s) | [Στρατηγική Candle Streak](https://youtu.be/ukDODbFWKFY) |
+
 ## Εγκατάσταση (χειροκίνητα, Λειτουργία προγραμματιστή)
 
 Το Chrome εμποδίζει την απευθείας εγκατάσταση αρχείων `.crx` εκτός του Chrome Web Store, οπότε ο μόνος τρόπος να εγκαταστήσετε μια έκδοση από εδώ είναι φορτώνοντάς την ως **επέκταση χωρίς συσκευασία (unpacked)** σε Λειτουργία προγραμματιστή:

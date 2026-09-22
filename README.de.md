@@ -13,6 +13,12 @@ Haben Sie einen Vorschlag oder ein Problem gefunden? Hinterlassen Sie es auf der
 
 Dieses Repository veröffentlicht fertige Installationsversionen der Erweiterung, sodass Sie neue Versionen installieren können, bevor sie die Überprüfung im Chrome Web Store durchlaufen, und immer eine ältere Version herunterladen können, falls Sie zurückwechseln müssen. Die Versionshistorie finden Sie in [CHANGELOG.md](CHANGELOG.md).
 
+## Videobeispiele, wie Strategien funktionieren
+
+| [![„none“ Strategie](https://img.youtube.com/vi/RYci6-vpeNQ/hqdefault.jpg)](https://youtu.be/RYci6-vpeNQ) | [![RSI-Strategie](https://img.youtube.com/vi/rpceGtEW_9U/hqdefault.jpg)](https://youtu.be/rpceGtEW_9U) | [![MACD-Strategie](https://img.youtube.com/vi/gqMDqFxTA-U/hqdefault.jpg)](https://youtu.be/gqMDqFxTA-U) | [![Stochastische Strategie](https://img.youtube.com/vi/eW3je_L8W3s/hqdefault.jpg)](https://youtu.be/eW3je_L8W3s) | [![Candle Streak-Strategie](https://img.youtube.com/vi/ukDODbFWKFY/hqdefault.jpg)](https://youtu.be/ukDODbFWKFY) |
+|:---:|:---:|:---:|:---:|:---:|
+| [„none“ Strategie](https://youtu.be/RYci6-vpeNQ) | [RSI-Strategie](https://youtu.be/rpceGtEW_9U) | [MACD-Strategie](https://youtu.be/gqMDqFxTA-U) | [Stochastische Strategie](https://youtu.be/eW3je_L8W3s) | [Candle Streak-Strategie](https://youtu.be/ukDODbFWKFY) |
+
 ## Installation (manuell, Entwicklermodus)
 
 Chrome blockiert die direkte Installation von `.crx`-Dateien außerhalb des Chrome Web Store. Die einzige Möglichkeit, eine Version von hier zu installieren, ist daher das Laden als **nicht gepackte Erweiterung (unpacked)** im Entwicklermodus:

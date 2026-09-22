@@ -13,6 +13,12 @@
 
 이 저장소는 바로 설치 가능한 확장 프로그램 버전을 게시하므로, Chrome 웹 스토어 심사를 통과하기 전에 새 버전을 설치할 수 있고, 이전 버전으로 돌아가야 할 경우 언제든지 다운로드할 수 있습니다. 버전 기록은 [CHANGELOG.md](CHANGELOG.md).
 
+## 전략이 어떻게 작동하는지 보여주는 동영상 예시
+
+| [!["none" 전략](https://img.youtube.com/vi/RYci6-vpeNQ/hqdefault.jpg)](https://youtu.be/RYci6-vpeNQ) | [![RSI 전략](https://img.youtube.com/vi/rpceGtEW_9U/hqdefault.jpg)](https://youtu.be/rpceGtEW_9U) | [![MACD 전략](https://img.youtube.com/vi/gqMDqFxTA-U/hqdefault.jpg)](https://youtu.be/gqMDqFxTA-U) | [![확률론적 전략](https://img.youtube.com/vi/eW3je_L8W3s/hqdefault.jpg)](https://youtu.be/eW3je_L8W3s) | [![캔들 스트릭 전략](https://img.youtube.com/vi/ukDODbFWKFY/hqdefault.jpg)](https://youtu.be/ukDODbFWKFY) |
+|:---:|:---:|:---:|:---:|:---:|
+| ["none" 전략](https://youtu.be/RYci6-vpeNQ) | [RSI 전략](https://youtu.be/rpceGtEW_9U) | [MACD 전략](https://youtu.be/gqMDqFxTA-U) | [확률론적 전략](https://youtu.be/eW3je_L8W3s) | [캔들 스트릭 전략](https://youtu.be/ukDODbFWKFY) |
+
 ## 설치 (수동, 개발자 모드)
 
 Chrome은 Chrome 웹 스토어 외부에서 `.crx` 파일을 직접 설치하는 것을 차단하므로, 여기서 빌드를 설치하는 유일한 방법은 개발자 모드에서 **압축해제된 확장 프로그램(unpacked)**으로 불러오는 것입니다:

@@ -13,6 +13,12 @@
 
 ينشر هذا المستودع إصدارات جاهزة للتثبيت من الإضافة، بحيث يمكنك تثبيت الإصدارات الجديدة قبل مرورها بمراجعة متجر Chrome الإلكتروني، والعودة دائمًا إلى إصدار سابق إذا احتجت لذلك. راجع [CHANGELOG.md](CHANGELOG.md) لسجل الإصدارات.
 
+## أمثلة فيديو لكيفية عمل الاستراتيجيات
+
+| [![استراتيجية "none"](https://img.youtube.com/vi/RYci6-vpeNQ/hqdefault.jpg)](https://youtu.be/RYci6-vpeNQ) | [![استراتيجية RSI](https://img.youtube.com/vi/rpceGtEW_9U/hqdefault.jpg)](https://youtu.be/rpceGtEW_9U) | [![استراتيجية MACD](https://img.youtube.com/vi/gqMDqFxTA-U/hqdefault.jpg)](https://youtu.be/gqMDqFxTA-U) | [![استراتيجية الستوكاستيك](https://img.youtube.com/vi/eW3je_L8W3s/hqdefault.jpg)](https://youtu.be/eW3je_L8W3s) | [![استراتيجية سلسلة الشموع](https://img.youtube.com/vi/ukDODbFWKFY/hqdefault.jpg)](https://youtu.be/ukDODbFWKFY) |
+|:---:|:---:|:---:|:---:|:---:|
+| [استراتيجية "none"](https://youtu.be/RYci6-vpeNQ) | [استراتيجية RSI](https://youtu.be/rpceGtEW_9U) | [استراتيجية MACD](https://youtu.be/gqMDqFxTA-U) | [استراتيجية الستوكاستيك](https://youtu.be/eW3je_L8W3s) | [استراتيجية سلسلة الشموع](https://youtu.be/ukDODbFWKFY) |
+
 ## التثبيت (يدويًا، وضع المطور)
 
 يمنع Chrome تثبيت ملفات `.crx` مباشرة خارج متجر Chrome الإلكتروني، لذا فإن الطريقة الوحيدة لتثبيت نسخة من هنا هي تحميلها كـ **إضافة غير مُعبأة (unpacked)** في وضع المطور:

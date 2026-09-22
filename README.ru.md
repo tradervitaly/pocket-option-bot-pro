@@ -13,6 +13,12 @@
 
 Этот репозиторий публикует готовые к установке версии расширения, так что вы можете установить новую версию ещё до того, как она пройдёт проверку в Chrome Web Store, и всегда можете скачать более старую версию, если понадобится откатиться назад. Историю версий смотрите в [CHANGELOG.md](CHANGELOG.md).
 
+## Видео-примеры работы стратегий
+
+| [![Стратегия "none"](https://img.youtube.com/vi/RYci6-vpeNQ/hqdefault.jpg)](https://youtu.be/RYci6-vpeNQ) | [![Стратегия RSI](https://img.youtube.com/vi/rpceGtEW_9U/hqdefault.jpg)](https://youtu.be/rpceGtEW_9U) | [![Стратегия MACD](https://img.youtube.com/vi/gqMDqFxTA-U/hqdefault.jpg)](https://youtu.be/gqMDqFxTA-U) | [![Стратегия Stochastic](https://img.youtube.com/vi/eW3je_L8W3s/hqdefault.jpg)](https://youtu.be/eW3je_L8W3s) | [![Стратегия Candle Streak](https://img.youtube.com/vi/ukDODbFWKFY/hqdefault.jpg)](https://youtu.be/ukDODbFWKFY) |
+|:---:|:---:|:---:|:---:|:---:|
+| [Стратегия "none"](https://youtu.be/RYci6-vpeNQ) | [Стратегия RSI](https://youtu.be/rpceGtEW_9U) | [Стратегия MACD](https://youtu.be/gqMDqFxTA-U) | [Стратегия Stochastic](https://youtu.be/eW3je_L8W3s) | [Стратегия Candle Streak](https://youtu.be/ukDODbFWKFY) |
+
 ## Установка (вручную, режим разработчика)
 
 Chrome блокирует прямую установку файлов `.crx` вне Chrome Web Store, поэтому единственный способ установить сборку отсюда — загрузить её как **распакованное расширение (unpacked)** в режиме разработчика:

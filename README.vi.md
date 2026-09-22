@@ -13,6 +13,12 @@ Có góp ý hoặc phát hiện sự cố? Hãy để lại trên [trang liên h
 
 Kho lưu trữ này phát hành các phiên bản sẵn sàng cài đặt của tiện ích mở rộng, nhờ đó bạn có thể cài đặt phiên bản mới trước khi chúng được Chrome Web Store duyệt, và luôn có thể tải về phiên bản cũ hơn nếu cần quay lại. Xem [CHANGELOG.md](CHANGELOG.md).
 
+## Video ví dụ về cách hoạt động của chiến lược
+
+| [![chiến lược “none”](https://img.youtube.com/vi/RYci6-vpeNQ/hqdefault.jpg)](https://youtu.be/RYci6-vpeNQ) | [![chiến lược RSI](https://img.youtube.com/vi/rpceGtEW_9U/hqdefault.jpg)](https://youtu.be/rpceGtEW_9U) | [![Chiến lược MACD](https://img.youtube.com/vi/gqMDqFxTA-U/hqdefault.jpg)](https://youtu.be/gqMDqFxTA-U) | [![Chiến lược ngẫu nhiên](https://img.youtube.com/vi/eW3je_L8W3s/hqdefault.jpg)](https://youtu.be/eW3je_L8W3s) | [![Chiến lược chuỗi nến](https://img.youtube.com/vi/ukDODbFWKFY/hqdefault.jpg)](https://youtu.be/ukDODbFWKFY) |
+|:---:|:---:|:---:|:---:|:---:|
+| [chiến lược “none”](https://youtu.be/RYci6-vpeNQ) | [chiến lược RSI](https://youtu.be/rpceGtEW_9U) | [Chiến lược MACD](https://youtu.be/gqMDqFxTA-U) | [Chiến lược ngẫu nhiên](https://youtu.be/eW3je_L8W3s) | [Chiến lược chuỗi nến](https://youtu.be/ukDODbFWKFY) |
+
 ## Cài đặt (thủ công, Chế độ nhà phát triển)
 
 Chrome chặn việc cài đặt trực tiếp file `.crx` bên ngoài Chrome Web Store, vì vậy cách duy nhất để cài đặt một bản build từ đây là tải nó lên dưới dạng **tiện ích chưa đóng gói (unpacked)** trong Chế độ nhà phát triển:

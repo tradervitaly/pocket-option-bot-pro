@@ -13,6 +13,12 @@ Ada cadangan atau menjumpai masalah? Tinggalkan di [halaman hubungi 2bot.top](ht
 
 Repositori ini menerbitkan versi sedia pasang bagi sambungan, jadi anda boleh memasang versi baharu sebelum ia melalui semakan Chrome Web Store, dan sentiasa boleh memuat turun versi lama jika perlu kembali semula. Lihat [CHANGELOG.md](CHANGELOG.md).
 
+## Contoh video cara strategi berfungsi
+
+| [![strategi "none".](https://img.youtube.com/vi/RYci6-vpeNQ/hqdefault.jpg)](https://youtu.be/RYci6-vpeNQ) | [![strategi RSI](https://img.youtube.com/vi/rpceGtEW_9U/hqdefault.jpg)](https://youtu.be/rpceGtEW_9U) | [![Strategi MACD](https://img.youtube.com/vi/gqMDqFxTA-U/hqdefault.jpg)](https://youtu.be/gqMDqFxTA-U) | [![Strategi Stochastic](https://img.youtube.com/vi/eW3je_L8W3s/hqdefault.jpg)](https://youtu.be/eW3je_L8W3s) | [![Strategi Candle Streak](https://img.youtube.com/vi/ukDODbFWKFY/hqdefault.jpg)](https://youtu.be/ukDODbFWKFY) |
+|:---:|:---:|:---:|:---:|:---:|
+| [strategi "none".](https://youtu.be/RYci6-vpeNQ) | [strategi RSI](https://youtu.be/rpceGtEW_9U) | [Strategi MACD](https://youtu.be/gqMDqFxTA-U) | [Strategi Stochastic](https://youtu.be/eW3je_L8W3s) | [Strategi Candle Streak](https://youtu.be/ukDODbFWKFY) |
+
 ## Pemasangan (manual, Mod Pembangun)
 
 Chrome menyekat pemasangan fail `.crx` secara terus di luar Chrome Web Store, jadi satu-satunya cara untuk memasang binaan dari sini ialah memuatkannya sebagai **sambungan tidak dibungkus (unpacked)** dalam Mod Pembangun:

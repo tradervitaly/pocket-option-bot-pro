@@ -13,6 +13,12 @@ Bot de trading automatizado para la plataforma [Pocket Option](https://pocketopt
 
 Este repositorio publica versiones listas para instalar de la extensión, para que puedas instalar nuevas versiones antes de que pasen la revisión de la Chrome Web Store, y siempre puedas descargar una versión anterior si necesitas revertir. Consulta [CHANGELOG.md](CHANGELOG.md).
 
+## Ejemplos en vídeo de cómo funcionan las estrategias
+
+| [![estrategia "none"](https://img.youtube.com/vi/RYci6-vpeNQ/hqdefault.jpg)](https://youtu.be/RYci6-vpeNQ) | [![estrategia RSI](https://img.youtube.com/vi/rpceGtEW_9U/hqdefault.jpg)](https://youtu.be/rpceGtEW_9U) | [![Estrategia MACD](https://img.youtube.com/vi/gqMDqFxTA-U/hqdefault.jpg)](https://youtu.be/gqMDqFxTA-U) | [![Estrategia estocástica](https://img.youtube.com/vi/eW3je_L8W3s/hqdefault.jpg)](https://youtu.be/eW3je_L8W3s) | [![Estrategia de racha de velas](https://img.youtube.com/vi/ukDODbFWKFY/hqdefault.jpg)](https://youtu.be/ukDODbFWKFY) |
+|:---:|:---:|:---:|:---:|:---:|
+| [estrategia "none"](https://youtu.be/RYci6-vpeNQ) | [estrategia RSI](https://youtu.be/rpceGtEW_9U) | [Estrategia MACD](https://youtu.be/gqMDqFxTA-U) | [Estrategia estocástica](https://youtu.be/eW3je_L8W3s) | [Estrategia de racha de velas](https://youtu.be/ukDODbFWKFY) |
+
 ## Instalación (manual, Modo desarrollador)
 
 Chrome bloquea la instalación directa de archivos `.crx` fuera de la Chrome Web Store, por lo que la única forma de instalar un build desde aquí es cargarlo como **extensión sin empaquetar (unpacked)** en Modo desarrollador:

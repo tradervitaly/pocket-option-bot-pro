@@ -13,6 +13,12 @@ Tem uma sugestão ou encontrou um problema? Deixe-o na [página de contacto do 2
 
 Este repositório publica versões prontas a instalar da extensão, para que possa instalar novas versões antes de passarem pela revisão da Chrome Web Store, e transferir sempre uma versão anterior caso precise de reverter. Consulte o [CHANGELOG.md](CHANGELOG.md).
 
+## Exemplos de vídeo de como as estratégias funcionam
+
+| [![estratégia "none"](https://img.youtube.com/vi/RYci6-vpeNQ/hqdefault.jpg)](https://youtu.be/RYci6-vpeNQ) | [![Estratégia RSI](https://img.youtube.com/vi/rpceGtEW_9U/hqdefault.jpg)](https://youtu.be/rpceGtEW_9U) | [![Estratégia MACD](https://img.youtube.com/vi/gqMDqFxTA-U/hqdefault.jpg)](https://youtu.be/gqMDqFxTA-U) | [![Estratégia Estocástica](https://img.youtube.com/vi/eW3je_L8W3s/hqdefault.jpg)](https://youtu.be/eW3je_L8W3s) | [![Estratégia de sequência de velas](https://img.youtube.com/vi/ukDODbFWKFY/hqdefault.jpg)](https://youtu.be/ukDODbFWKFY) |
+|:---:|:---:|:---:|:---:|:---:|
+| [estratégia "none"](https://youtu.be/RYci6-vpeNQ) | [Estratégia RSI](https://youtu.be/rpceGtEW_9U) | [Estratégia MACD](https://youtu.be/gqMDqFxTA-U) | [Estratégia Estocástica](https://youtu.be/eW3je_L8W3s) | [Estratégia de sequência de velas](https://youtu.be/ukDODbFWKFY) |
+
 ## Instalação (manual, Modo de Programador)
 
 O Chrome bloqueia a instalação direta de ficheiros `.crx` fora da Chrome Web Store, pelo que a única forma de instalar uma build a partir daqui é carregá-la como **extensão não empacotada (unpacked)** no Modo de Programador:

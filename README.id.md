@@ -13,6 +13,12 @@ Punya saran atau menemukan masalah? Sampaikan di [halaman kontak 2bot.top](https
 
 Repositori ini menerbitkan versi ekstensi yang siap dipasang, sehingga Anda dapat memasang versi baru sebelum melalui peninjauan Chrome Web Store, dan selalu dapat mengunduh versi lama jika perlu kembali. Lihat [CHANGELOG.md](CHANGELOG.md).
 
+## Contoh video tentang cara kerja strategi
+
+| [![strategi “none”.](https://img.youtube.com/vi/RYci6-vpeNQ/hqdefault.jpg)](https://youtu.be/RYci6-vpeNQ) | [![Strategi RSI](https://img.youtube.com/vi/rpceGtEW_9U/hqdefault.jpg)](https://youtu.be/rpceGtEW_9U) | [![Strategi MACD](https://img.youtube.com/vi/gqMDqFxTA-U/hqdefault.jpg)](https://youtu.be/gqMDqFxTA-U) | [![Strategi Stokastik](https://img.youtube.com/vi/eW3je_L8W3s/hqdefault.jpg)](https://youtu.be/eW3je_L8W3s) | [![Strategi Garis Lilin](https://img.youtube.com/vi/ukDODbFWKFY/hqdefault.jpg)](https://youtu.be/ukDODbFWKFY) |
+|:---:|:---:|:---:|:---:|:---:|
+| [strategi “none”.](https://youtu.be/RYci6-vpeNQ) | [Strategi RSI](https://youtu.be/rpceGtEW_9U) | [Strategi MACD](https://youtu.be/gqMDqFxTA-U) | [Strategi Stokastik](https://youtu.be/eW3je_L8W3s) | [Strategi Garis Lilin](https://youtu.be/ukDODbFWKFY) |
+
 ## Pemasangan (manual, Mode Pengembang)
 
 Chrome memblokir pemasangan langsung file `.crx` di luar Chrome Web Store, jadi satu-satunya cara memasang build dari sini adalah memuatnya sebagai **ekstensi tidak terkemas (unpacked)** dalam Mode Pengembang:

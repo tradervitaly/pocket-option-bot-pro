@@ -13,6 +13,12 @@ Hai un suggerimento o hai trovato un problema? Lascialo nella [pagina contatti d
 
 Questo repository pubblica versioni pronte all'installazione dell'estensione, così puoi installare le nuove versioni prima che superino la revisione del Chrome Web Store, e scaricare sempre una versione precedente se devi tornare indietro. Consulta [CHANGELOG.md](CHANGELOG.md).
 
+## Esempi video di come funzionano le strategie
+
+| [![strategia "none".](https://img.youtube.com/vi/RYci6-vpeNQ/hqdefault.jpg)](https://youtu.be/RYci6-vpeNQ) | [![Strategia dell'RSI](https://img.youtube.com/vi/rpceGtEW_9U/hqdefault.jpg)](https://youtu.be/rpceGtEW_9U) | [![Strategia MACD](https://img.youtube.com/vi/gqMDqFxTA-U/hqdefault.jpg)](https://youtu.be/gqMDqFxTA-U) | [![Strategia stocastica](https://img.youtube.com/vi/eW3je_L8W3s/hqdefault.jpg)](https://youtu.be/eW3je_L8W3s) | [![Strategia della serie di candele](https://img.youtube.com/vi/ukDODbFWKFY/hqdefault.jpg)](https://youtu.be/ukDODbFWKFY) |
+|:---:|:---:|:---:|:---:|:---:|
+| [strategia "none".](https://youtu.be/RYci6-vpeNQ) | [Strategia dell'RSI](https://youtu.be/rpceGtEW_9U) | [Strategia MACD](https://youtu.be/gqMDqFxTA-U) | [Strategia stocastica](https://youtu.be/eW3je_L8W3s) | [Strategia della serie di candele](https://youtu.be/ukDODbFWKFY) |
+
 ## Installazione (manuale, Modalità sviluppatore)
 
 Chrome blocca l'installazione diretta dei file `.crx` al di fuori del Chrome Web Store, quindi l'unico modo per installare una build da qui è caricarla come **estensione non pacchettizzata (unpacked)** in Modalità sviluppatore:

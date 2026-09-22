@@ -16,6 +16,12 @@ This repository publishes ready-to-install releases of the extension, so you can
 pass Chrome Web Store review, and always download an older release if you need to roll back. See
 [CHANGELOG.md](CHANGELOG.md) for the version history.
 
+## Video examples of how strategies work
+
+| [!["none" strategy](https://img.youtube.com/vi/RYci6-vpeNQ/hqdefault.jpg)](https://youtu.be/RYci6-vpeNQ) | [![RSI strategy](https://img.youtube.com/vi/rpceGtEW_9U/hqdefault.jpg)](https://youtu.be/rpceGtEW_9U) | [![MACD Strategy](https://img.youtube.com/vi/gqMDqFxTA-U/hqdefault.jpg)](https://youtu.be/gqMDqFxTA-U) | [![Stochastic Strategy](https://img.youtube.com/vi/eW3je_L8W3s/hqdefault.jpg)](https://youtu.be/eW3je_L8W3s) | [![Candle Streak Strategy](https://img.youtube.com/vi/ukDODbFWKFY/hqdefault.jpg)](https://youtu.be/ukDODbFWKFY) |
+|:---:|:---:|:---:|:---:|:---:|
+| ["none" strategy](https://youtu.be/RYci6-vpeNQ) | [RSI strategy](https://youtu.be/rpceGtEW_9U) | [MACD Strategy](https://youtu.be/gqMDqFxTA-U) | [Stochastic Strategy](https://youtu.be/eW3je_L8W3s) | [Candle Streak Strategy](https://youtu.be/ukDODbFWKFY) |
+
 ## Installation (manual, Developer Mode)
 
 Chrome blocks installing `.crx` files directly outside the Chrome Web Store, so the only way to install a build from

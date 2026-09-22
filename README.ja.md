@@ -13,6 +13,12 @@
 
 このリポジトリでは、すぐにインストールできる拡張機能のバージョンを公開しています。そのため、Chromeウェブストアの審査を通過する前に新しいバージョンをインストールでき、必要であればいつでも以前のバージョンをダウンロードして戻すことができます。バージョン履歴は [CHANGELOG.md](CHANGELOG.md).
 
+## 戦略がどのように機能するかを示すビデオの例
+
+| [![「何もしない」戦略](https://img.youtube.com/vi/RYci6-vpeNQ/hqdefault.jpg)](https://youtu.be/RYci6-vpeNQ) | [![RSI戦略](https://img.youtube.com/vi/rpceGtEW_9U/hqdefault.jpg)](https://youtu.be/rpceGtEW_9U) | [![MACD戦略](https://img.youtube.com/vi/gqMDqFxTA-U/hqdefault.jpg)](https://youtu.be/gqMDqFxTA-U) | [![確率的戦略](https://img.youtube.com/vi/eW3je_L8W3s/hqdefault.jpg)](https://youtu.be/eW3je_L8W3s) | [![キャンドルストリーク戦略](https://img.youtube.com/vi/ukDODbFWKFY/hqdefault.jpg)](https://youtu.be/ukDODbFWKFY) |
+|:---:|:---:|:---:|:---:|:---:|
+| [「何もしない」戦略](https://youtu.be/RYci6-vpeNQ) | [RSI戦略](https://youtu.be/rpceGtEW_9U) | [MACD戦略](https://youtu.be/gqMDqFxTA-U) | [確率的戦略](https://youtu.be/eW3je_L8W3s) | [キャンドルストリーク戦略](https://youtu.be/ukDODbFWKFY) |
+
 ## インストール方法(手動、デベロッパーモード)
 
 Chromeウェブストア以外から`.crx`ファイルを直接インストールすることはChromeによってブロックされています。そのため、ここからビルドをインストールする唯一の方法は、デベロッパーモードで**パッケージ化されていない拡張機能(unpacked)**として読み込むことです:

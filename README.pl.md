@@ -13,6 +13,12 @@ Masz sugestię lub znalazłeś problem? Zostaw ją na [stronie kontaktowej 2bot.
 
 To repozytorium publikuje gotowe do instalacji wersje rozszerzenia, dzięki czemu możesz zainstalować nowe wersje, zanim przejdą weryfikację w Chrome Web Store, i zawsze pobrać starszą wersję, jeśli potrzebujesz się wycofać. Historię wersji znajdziesz w [CHANGELOG.md](CHANGELOG.md).
 
+## Przykłady wideo działania strategii
+
+| [![strategia „none”.](https://img.youtube.com/vi/RYci6-vpeNQ/hqdefault.jpg)](https://youtu.be/RYci6-vpeNQ) | [![Strategia RSI](https://img.youtube.com/vi/rpceGtEW_9U/hqdefault.jpg)](https://youtu.be/rpceGtEW_9U) | [![Strategia MACD](https://img.youtube.com/vi/gqMDqFxTA-U/hqdefault.jpg)](https://youtu.be/gqMDqFxTA-U) | [![Strategia stochastyczna](https://img.youtube.com/vi/eW3je_L8W3s/hqdefault.jpg)](https://youtu.be/eW3je_L8W3s) | [![Strategia smug świecowych](https://img.youtube.com/vi/ukDODbFWKFY/hqdefault.jpg)](https://youtu.be/ukDODbFWKFY) |
+|:---:|:---:|:---:|:---:|:---:|
+| [strategia „none”.](https://youtu.be/RYci6-vpeNQ) | [Strategia RSI](https://youtu.be/rpceGtEW_9U) | [Strategia MACD](https://youtu.be/gqMDqFxTA-U) | [Strategia stochastyczna](https://youtu.be/eW3je_L8W3s) | [Strategia smug świecowych](https://youtu.be/ukDODbFWKFY) |
+
 ## Instalacja (ręczna, Tryb dewelopera)
 
 Chrome blokuje bezpośrednią instalację plików `.crx` spoza Chrome Web Store, więc jedynym sposobem na zainstalowanie buildu stąd jest wczytanie go jako **rozszerzenia niespakowanego (unpacked)** w Trybie dewelopera:

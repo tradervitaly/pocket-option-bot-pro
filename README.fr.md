@@ -13,6 +13,12 @@ Une suggestion ou un problème à signaler ? Laissez-le sur la [page de contact 
 
 Ce dépôt publie des versions prêtes à installer de l'extension, ce qui vous permet d'installer les nouvelles versions avant qu'elles ne passent la validation du Chrome Web Store, et de toujours télécharger une version antérieure si vous devez revenir en arrière. Consultez [CHANGELOG.md](CHANGELOG.md).
 
+## Exemples vidéo du fonctionnement des stratégies
+
+| [![stratégie "none"](https://img.youtube.com/vi/RYci6-vpeNQ/hqdefault.jpg)](https://youtu.be/RYci6-vpeNQ) | [![Stratégie RSI](https://img.youtube.com/vi/rpceGtEW_9U/hqdefault.jpg)](https://youtu.be/rpceGtEW_9U) | [![Stratégie MACD](https://img.youtube.com/vi/gqMDqFxTA-U/hqdefault.jpg)](https://youtu.be/gqMDqFxTA-U) | [![Stratégie stochastique](https://img.youtube.com/vi/eW3je_L8W3s/hqdefault.jpg)](https://youtu.be/eW3je_L8W3s) | [![Stratégie de séquence de bougies](https://img.youtube.com/vi/ukDODbFWKFY/hqdefault.jpg)](https://youtu.be/ukDODbFWKFY) |
+|:---:|:---:|:---:|:---:|:---:|
+| [stratégie "none"](https://youtu.be/RYci6-vpeNQ) | [Stratégie RSI](https://youtu.be/rpceGtEW_9U) | [Stratégie MACD](https://youtu.be/gqMDqFxTA-U) | [Stratégie stochastique](https://youtu.be/eW3je_L8W3s) | [Stratégie de séquence de bougies](https://youtu.be/ukDODbFWKFY) |
+
 ## Installation (manuelle, mode développeur)
 
 Chrome bloque l'installation directe des fichiers `.crx` en dehors du Chrome Web Store. La seule façon d'installer une version depuis ce dépôt est donc de la charger comme **extension non empaquetée (unpacked)** en mode développeur :

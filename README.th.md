@@ -13,6 +13,12 @@
 
 ที่เก็บนี้เผยแพร่เวอร์ชันของส่วนขยายที่พร้อมติดตั้ง ทำให้คุณสามารถติดตั้งเวอร์ชันใหม่ได้ก่อนที่จะผ่านการตรวจสอบของ Chrome Web Store และสามารถดาวน์โหลดเวอร์ชันเก่ากว่าได้เสมอหากต้องการย้อนกลับ ดู [CHANGELOG.md](CHANGELOG.md).
 
+## ตัวอย่างวิดีโอเกี่ยวกับวิธีการทำงานของกลยุทธ์
+
+| [![กลยุทธ์ "none"](https://img.youtube.com/vi/RYci6-vpeNQ/hqdefault.jpg)](https://youtu.be/RYci6-vpeNQ) | [![กลยุทธ์อาร์เอสไอ](https://img.youtube.com/vi/rpceGtEW_9U/hqdefault.jpg)](https://youtu.be/rpceGtEW_9U) | [![กลยุทธ์ MACD](https://img.youtube.com/vi/gqMDqFxTA-U/hqdefault.jpg)](https://youtu.be/gqMDqFxTA-U) | [![กลยุทธ์สุ่ม](https://img.youtube.com/vi/eW3je_L8W3s/hqdefault.jpg)](https://youtu.be/eW3je_L8W3s) | [![กลยุทธ์แนวเทียน](https://img.youtube.com/vi/ukDODbFWKFY/hqdefault.jpg)](https://youtu.be/ukDODbFWKFY) |
+|:---:|:---:|:---:|:---:|:---:|
+| [กลยุทธ์ "none"](https://youtu.be/RYci6-vpeNQ) | [กลยุทธ์อาร์เอสไอ](https://youtu.be/rpceGtEW_9U) | [กลยุทธ์ MACD](https://youtu.be/gqMDqFxTA-U) | [กลยุทธ์สุ่ม](https://youtu.be/eW3je_L8W3s) | [กลยุทธ์แนวเทียน](https://youtu.be/ukDODbFWKFY) |
+
 ## การติดตั้ง (ด้วยตนเอง, โหมดนักพัฒนา)
 
 Chrome ป้องกันการติดตั้งไฟล์ `.crx` โดยตรงนอก Chrome Web Store ดังนั้นวิธีเดียวที่จะติดตั้ง build จากที่นี่คือการโหลดเป็น **ส่วนขยายที่ยังไม่แพ็ก (unpacked)** ในโหมดนักพัฒนา:
