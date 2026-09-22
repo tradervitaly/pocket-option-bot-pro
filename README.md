@@ -1,4 +1,4 @@
-🇬🇧 English | [🇸🇦 العربية](README.ar.md)
+🇬🇧 English | [🇩🇪 Deutsch](README.de.md) | [🇬🇷 Ελληνικά](README.el.md) | [🇫🇷 Français](README.fr.md) | [🇮🇹 Italiano](README.it.md) | [🇲🇾 Bahasa Melayu](README.ms.md) | [🇵🇱 Polski](README.pl.md) | [🇵🇹 Português](README.pt.md) | [🇻🇳 Tiếng Việt](README.vi.md) | [🇹🇭 ไทย](README.th.md) | [🇰🇷 한국어](README.ko.md) | [🇯🇵 日本語](README.ja.md) | [🇷🇺 Русский](README.ru.md) | [🇪🇸 Español](README.es.md) | [🇮🇩 Bahasa Indonesia](README.id.md) | [🇸🇦 العربية](README.ar.md)
 
 # Pocket Option Bot PRO
 

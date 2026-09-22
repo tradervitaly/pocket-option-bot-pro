@@ -1,15 +1,15 @@
-[🇬🇧 English](README.md) | 🇸🇦 العربية
+[🇬🇧 English](README.md) | [🇩🇪 Deutsch](README.de.md) | [🇬🇷 Ελληνικά](README.el.md) | [🇫🇷 Français](README.fr.md) | [🇮🇹 Italiano](README.it.md) | [🇲🇾 Bahasa Melayu](README.ms.md) | [🇵🇱 Polski](README.pl.md) | [🇵🇹 Português](README.pt.md) | [🇻🇳 Tiếng Việt](README.vi.md) | [🇹🇭 ไทย](README.th.md) | [🇰🇷 한국어](README.ko.md) | [🇯🇵 日本語](README.ja.md) | [🇷🇺 Русский](README.ru.md) | [🇪🇸 Español](README.es.md) | [🇮🇩 Bahasa Indonesia](README.id.md) | 🇸🇦 العربية
 
 # بوت Pocket Option Pro
 
 بوت تداول آلي لمنصة [Pocket Option](https://pocketoption.com)، يُوزَّع هنا كنسخ جاهزة للتثبيت — دون انتظار مراجعة متجر Chrome الإلكتروني، مع بقاء جميع الإصدارات السابقة متاحة.
 
-- الموقع الإلكتروني: https://2bot.top
+- الموقع الإلكتروني: https://2bot.top/ar/
 - تيليجرام (قناة الأخبار): https://t.me/PO_bot_news
 - YouTube: https://www.youtube.com/@PocketOptionRobot
 - متجر Chrome الإلكتروني: https://chromewebstore.google.com/detail/pocket-option-bot-pro/fgpcopnjkdcheolcfjlkcfifiphpakla
 
-لديك اقتراح أو وجدت مشكلة؟ اتركها في [صفحة التواصل على 2bot.top](https://2bot.top/contact/).
+لديك اقتراح أو وجدت مشكلة؟ اتركها في [صفحة التواصل على 2bot.top](https://2bot.top/ar/contact/).
 
 ينشر هذا المستودع إصدارات جاهزة للتثبيت من الإضافة، بحيث يمكنك تثبيت الإصدارات الجديدة قبل مرورها بمراجعة متجر Chrome الإلكتروني، والعودة دائمًا إلى إصدار سابق إذا احتجت لذلك. راجع [CHANGELOG.md](CHANGELOG.md) لسجل الإصدارات.
 
