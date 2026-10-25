@@ -2,6 +2,25 @@
 
 All notable changes to Pocket Option Bot PRO will be documented in this file, starting from the next release.
 
+## [2.0.13] - 2026-10-25
+
+### Added
+
+- "Wait for signal" mode for Martingale: after a loss, the next step is no longer opened immediately — the bot waits
+  for the next signal of your strategy and opens the step in the signal's direction. This lets the series continue
+  only when the strategy sees a good entry point. The option is available when a strategy is selected; while it is
+  on, "Inverse trade" and "Minimum delay" are disabled, since the signal defines the direction and timing of the trade.
+- The current Martingale step is now highlighted, so you can always see where the series is.
+
+### Fixed
+
+- The bot could open more trades than the "Simultaneous deals" limit (e.g. several trades with a limit of 1) when the
+  platform was slow to confirm a newly opened trade. Trades now count toward the limit as soon as they are sent.
+
+### Improved
+
+- Martingale settings are laid out in two rows so all fields fit in the window.
+
 ## [2.0.12] - 2026-10-14
 
 ### Added
